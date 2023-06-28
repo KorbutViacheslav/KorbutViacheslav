@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://github.com/KorbutViacheslav/KorbutViacheslav/assets/115156156/578652ab-8c2e-44d6-a4db-72538147c54d" alt="earth" width="400" height="200">
+</p>
 
-![hw](https://github.com/KorbutViacheslav/KorbutViacheslav/assets/115156156/1f40a2cc-329b-4e21-a1a1-3097e78334ba)
 
 <h1 align="center"> 🌏 My name is Viacheslav Korbut 🌏</h1>
 
