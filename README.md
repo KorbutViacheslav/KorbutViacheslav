@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, world 👋
+My name is Viacheslav Korbut
 
 <!--
 **KorbutViacheslav/KorbutViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
