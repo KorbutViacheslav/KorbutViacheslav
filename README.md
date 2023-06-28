@@ -1,7 +1,8 @@
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966](https://github.com/KorbutViacheslav/KorbutViacheslav/assets/115156156/d8b53b43-88ce-4fdb-9560-5396bf3b4de8)
 
-<h1 align="centr"> Hello, world! 🌏
-My name is Viacheslav Korbut</h1>
+![hw](https://github.com/KorbutViacheslav/KorbutViacheslav/assets/115156156/1f40a2cc-329b-4e21-a1a1-3097e78334ba)
+
+<h1 align="center"> 🌏 My name is Viacheslav Korbut 🌏</h1>
+
 
 
 <!--
