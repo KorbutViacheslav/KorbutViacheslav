@@ -44,3 +44,11 @@ coding.
 <a href="https://linkedin.com/in/viacheslav-korbut-5742a1272"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
 <a href="mailto:korbutjava@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/></a>
 </p>
+
+---
+<h3 align="left">Resume:</h3>
+<p align="left">
+  <a href="https://github.com/KorbutViacheslav/KorbutViacheslav/blob/main/ResumeKorbutViacheslav.pdf" target="_blank" rel="noreferrer">
+    <img align="center" src="https://kartinki.pibig.info/uploads/posts/2023-04/1682119748_kartinki-pibig-info-p-kartinka-rezyume-arti-krasivo-3.png" alt="Resume" height="70" width="80" />
+  </a>
+</p>
