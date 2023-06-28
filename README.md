@@ -17,7 +17,7 @@ coding.
 
 ---
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,15 +26,12 @@ coding.
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
   
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korbutviacheslav&show_icons=true&locale=en&layout=compact" alt="korbutviacheslav" />
 
 
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=korbutviacheslav&show_icons=true&locale=en&layout=compact" alt="korbutviacheslav" style="margin: 0 auto;">
+</div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -47,8 +44,8 @@ coding.
 
 ---
 <h3 align="left">Resume:</h3>
-<p align="left">
+<p align="center">
   <a href="https://github.com/KorbutViacheslav/KorbutViacheslav/blob/main/ResumeKorbutViacheslav.pdf" target="_blank" rel="noreferrer">
-    <img align="center" src="https://kartinki.pibig.info/uploads/posts/2023-04/1682119748_kartinki-pibig-info-p-kartinka-rezyume-arti-krasivo-3.png" alt="Resume" height="70" width="80" />
+    <img align="center" src="https://kartinki.pibig.info/uploads/posts/2023-04/1682119748_kartinki-pibig-info-p-kartinka-rezyume-arti-krasivo-3.png" alt="Resume" height="70" width="90" />
   </a>
 </p>
