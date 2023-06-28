@@ -1,7 +1,8 @@
+<h1 alig="centr"> Hello, world! 🌏
+My name is Viacheslav Korbut</h1>
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966](https://github.com/KorbutViacheslav/KorbutViacheslav/assets/115156156/e4c80189-436f-4e1e-9cf0-21181d3ac962)
 
-<h1 alig="centr"> Hello, world 👋
-My name is Viacheslav Korbut</h1>
+
 
 <!--
 **KorbutViacheslav/KorbutViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
