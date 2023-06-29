@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"> 🌏 My name is Viacheslav Korbut 🌏</h1>
+<h1 align="center"> 🌏Hello World!🌏<br> My name is Viacheslav Korbut </h1>
 
 <h3 align="center">Java developer from Ukraine</h3>
 <h3 align="left"> About myself:</h3>
