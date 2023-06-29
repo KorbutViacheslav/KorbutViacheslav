@@ -7,7 +7,7 @@
 <h1 align="center"> 🌏Hello World!🌏<br> My name is Viacheslav Korbut </h1>
 
 <h3 align="center">Java developer from Ukraine</h3>
-<h3 align="left"> About myself:</h3>
+<h3 align="left">🔹 About myself:</h3>
 I am a Java Developer with comprehensive knowledge and practical
 experience in Java programming gained through the Java Developer
 course. Skilled in Object-Oriented Programming (OOP), Java application
@@ -16,7 +16,7 @@ and related technologies. Strong problem-solving skills and a passion for
 coding.
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔹 Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +36,7 @@ coding.
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔹 Connect with me:</h3>
 
 ---
 <p align="center">
@@ -46,7 +46,7 @@ coding.
 </p>
 
 ---
-<h3 align="left">Resume:</h3>
+<h3 align="left">🔹 Resume:</h3>
 <p align="center">
   <a href="https://github.com/KorbutViacheslav/KorbutViacheslav/blob/main/ResumeKorbutViacheslav.pdf" target="_blank" rel="noreferrer">
     <img align="center" src="https://kartinki.pibig.info/uploads/posts/2023-04/1682119748_kartinki-pibig-info-p-kartinka-rezyume-arti-krasivo-3.png" alt="Resume" height="70" width="90" />
