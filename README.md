@@ -16,6 +16,9 @@ and related technologies. Strong problem-solving skills and a passion for
 coding.
 
 ---
+🔹 💻 Currently, I’m learning and working on [Employees Spring Boot App](https://github.com/KorbutViacheslav/demoWithTests).
+
+---
 <h3 align="left">🔹 Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
