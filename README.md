@@ -16,6 +16,14 @@ and related technologies. Strong problem-solving skills and a passion for
 coding.
 
 ---
+<h3 align="left">🔹 Education:</h3>
+
+- [Master of Engineering at National Technical University
+«Kharkiv Polytechnic Institute», 2008-2014](https://www.kpi.kharkov.ua/eng/)<br>
+
+- [Java Pro at Hillel IT School, 2022-2023](https://certificate.ithillel.ua/view/53433171)
+
+---
 🔹 💻 Currently, I’m learning in [Hillel IT School](https://ithillel.ua) and working on [Employees Spring Boot App](https://github.com/KorbutViacheslav/demoWithTests).
 
 ---
