@@ -16,7 +16,7 @@ and related technologies. Strong problem-solving skills and a passion for
 coding.
 
 ---
-🔹 💻 Currently, I’m learning and working on [Employees Spring Boot App](https://github.com/KorbutViacheslav/demoWithTests).
+🔹 💻 Currently, I’m learning in [Hillel IT School](https://ithillel.ua) and working on [Employees Spring Boot App](https://github.com/KorbutViacheslav/demoWithTests).
 
 ---
 <h3 align="left">🔹 Languages and Tools:</h3>
