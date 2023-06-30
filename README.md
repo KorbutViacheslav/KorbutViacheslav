@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center"> I am working</h2>
+<h2 align="center"> I am working...</h2>
 <h1 align="center"> 🌏Hello World!🌏<br> My name is Viacheslav Korbut </h1>
 
 <h3 align="center">Java developer from Ukraine</h3>
