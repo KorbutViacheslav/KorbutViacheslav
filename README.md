@@ -2,8 +2,6 @@
   <img src="https://github.com/KorbutViacheslav/KorbutViacheslav/assets/115156156/50c7f37d-a7a1-4c67-97b8-e844cd1ad7a8" alt="work" width="500" height="200">
 </p>
 
-
-<h2 align="center"> I am working<img src="https://pintodown.com/wp-content/uploads/2022/09/pintodown-gif.gif" alt="load" width="70" height="10"></h2>
 <h1 align="center"> 🌏Hello World!🌏<br> My name is Viacheslav Korbut </h1>
 
 <h3 align="center">Java developer from Ukraine</h3>
