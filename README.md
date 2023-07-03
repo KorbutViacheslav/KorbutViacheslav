@@ -6,7 +6,7 @@
 
 <h3 align="center">Java developer from Ukraine</h3>
 <h3 align="left">🔹 About myself:</h3>
-♦ I'm a Java Developer with comprehensive knowledge and practical experience in Java programming gained through the Java Developer
+  I'm a Java Developer with comprehensive knowledge and practical experience in Java programming gained through the Java Developer
 course. Skilled in Object-Oriented Programming (OOP), Java application development, and proficiency in the Java Enterprise Edition (JEE)
 stack and related technologies. I have hands-on experience working with databases such as PostgreSQL and MySQL, utilizing Hibernate and
 Java Data JPA for data persistence. In addition, I have worked with Spring MVC, utilizing tools like Postman and Swagger for API testing and
