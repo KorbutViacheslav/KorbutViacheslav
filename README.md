@@ -23,6 +23,8 @@ incorporating Mockito for mock object creation and testing.
 
 - [Java Pro at Hillel IT School, 2022-2023](https://certificate.ithillel.ua/view/53433171)
 
+- [Java Enterprise at Hillel IT School, 2023](https://certificate.ithillel.ua/view/43554853)
+
 ---
 🔹 💻 Currently, I’m learning in [Hillel IT School](https://ithillel.ua) and working on [Employees Manager App](https://github.com/KorbutViacheslav/demoWithTests).
 
