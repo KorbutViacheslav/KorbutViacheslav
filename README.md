@@ -27,7 +27,7 @@ incorporating Mockito for mock object creation and testing.
 
 ---
 <!-- 🔹 💻 Currently, I’m learning in [Hillel IT School](https://ithillel.ua) and working on [Employees Manager App](https://github.com/KorbutViacheslav/demoWithTests).-->
-🔹 💻 Currently, I`m studying on the Java Marathon from SoftServe. [Marathone sprints](https://github.com/KorbutViacheslav/pre-marathone-training).
+🔹 💻 Currently, I`m studying on the Java Marathon from SoftServe. [Marathon sprints](https://github.com/KorbutViacheslav/pre-marathone-training).
 
 ---
 <h3 align="left">🔹 Languages and Tools:</h3>
