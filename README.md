@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/KorbutViacheslav/KorbutViacheslav/assets/115156156/50c7f37d-a7a1-4c67-97b8-e844cd1ad7a8" alt="work" width="500" height="200">
-</p>
+</p>-->
 
 <h1 align="center"> 🌏Hello World!🌏<br> My name is Viacheslav Korbut </h1>
 
