@@ -27,7 +27,7 @@ incorporating Mockito for mock object creation and testing.
 
 ---
 <!-- 🔹 💻 Currently, I’m learning in [Hillel IT School](https://ithillel.ua) and working on [Employees Manager App](https://github.com/KorbutViacheslav/demoWithTests).-->
-🔹 💻 Currently, I`m studying on the internship from ProfITsoft. [Tasks](https://github.com/KorbutViacheslav/profitsoft).
+🔹 💻 I am currently an intern at ProfITsoft as a Java Full Stack Developer. I am learning how to develop web applications using Java, JavaScript, TypeScript, React, and Node.js. I have experience working on a project to develop a single-page web application using React and Node.js. I am also familiar with TypeScript and have used it to create type-safe JavaScript code. Additionally, I have experience developing a backend server application with REST API using TypeScript and Node.js and MongoDB. [Tasks](https://github.com/KorbutViacheslav/profitsoft).
 
 ---
 <h3 align="left">🔹 Languages and Tools:</h3>
