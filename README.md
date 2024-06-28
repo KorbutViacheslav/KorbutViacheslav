@@ -45,7 +45,9 @@ incorporating Mockito for mock object creation and testing.
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115156156/249695423-86ab927d-ca87-43b1-bad3-b7320870d5eb.png" alt="Postman" width="50" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJIDEA" width="40" height="40"/> </a>
-    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" alt="Kafka" width="40" height="40"/> </a>
+  <br>
+    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" alt="Kafka" width="70" height="40"/> </a>
+    <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*BmvPfSSm2G8C-khX1rhCGg.png" alt="Elasticsearch" width="70" height="40"/> </a>
 </p>
 
 
