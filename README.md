@@ -48,6 +48,7 @@ incorporating Mockito for mock object creation and testing.
   <br>
   <br>
     <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" alt="Kafka" width="80" height="40"/> </a>&nbsp; &nbsp; &nbsp; &nbsp; 
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://bluemarkacademy.com/wp-content/uploads/2023/05/rabbitmq.jpg" alt="RabbitMQ" width="40" height="40"/> </a>&nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" alt="Elasticsearch" width="40" height="40"/> </a>&nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://www.consul.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/consul-logo-1518D89C67-seeklogo.com.png" alt="Consul" width="40" height="40"/> </a>&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
