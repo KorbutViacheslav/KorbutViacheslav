@@ -26,7 +26,7 @@ incorporating Mockito for mock object creation and testing.
 
 - [Java Enterprise at Hillel IT School, 2023](https://certificate.ithillel.ua/view/43554853)
 
-- [ProfITSoft Internship Java Full Stack Developer,  2024](https://profitsoft.dev/)
+- [ProfITSoft Internship Java Full Stack Developer,  2024](https://profitsoft.dev/) - [Certificate](https://profitsoft.dev/certificates/2024/Viacheslav%20Korbut.pdf)
 
 ---
 <!-- 🔹 💻 Currently, I’m learning in [Hillel IT School](https://ithillel.ua) and working on [Employees Manager App](https://github.com/KorbutViacheslav/demoWithTests).-->
