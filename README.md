@@ -71,7 +71,9 @@ incorporating Mockito for mock object creation and testing.
 ---
 <h3 align="left">🔹 Resume:</h3>
 <p align="center">
-  <a href="https://github.com/KorbutViacheslav/KorbutViacheslav/raw/main/Viacheslav%20Korbut%20Resume.pdf" target="_blank" rel="noreferrer">
-    <img align="center" src="https://kartinki.pibig.info/uploads/posts/2023-04/1682119748_kartinki-pibig-info-p-kartinka-rezyume-arti-krasivo-3.png" alt="Resume" height="70" width="90" />
+  <a href="https://github.com/KorbutViacheslav/KorbutViacheslav/raw/main/Viacheslav%20Korbut%20Resume.pdf" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/8347/8347432.png" alt="Resume" height="70" width="70" />
   </a>
+  <br>
+  Click me ;)
 </p>
